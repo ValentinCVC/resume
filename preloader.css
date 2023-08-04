@@ -489,9 +489,7 @@ span.psw {
 	.text3 {
 		color: #000;
 	}
-	.bgimg {
-		display: none;
-	}
+
 }
 
 @media (max-width: 1200px) {
