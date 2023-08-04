@@ -651,7 +651,9 @@ span.psw {
 		font-size: 18px;
 		margin-left: 70px;
 	}
-	
+	.left {
+		display: none;
+	}
 	.right {
 		width: 100%;
 	}
